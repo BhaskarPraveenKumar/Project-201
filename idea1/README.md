@@ -9,6 +9,9 @@
 
 - Visual studio, html, CSS, javascript
 
-### References
+### User Stories
+- As a user, I'd like to receive email after registration so that I can verify my email address.
+- As a user, I'd be able to view the previous assignments samples, so that I get an overview towards the quality of your work.
+- 
 
 
