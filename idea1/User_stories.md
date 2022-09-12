@@ -8,3 +8,4 @@
 - As a user, I can view my personal information and edit profile photo.
 - As a user, I can reset my password, If I've forgotten my password. 
 - As a user, I can register through facebook or gmail.
+- ouyyfjg
